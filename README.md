@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently building SaaS Platforms
+- 🌱 I’m currently learning AWS Advanced Topics, Serverless, Plato's philosophy and Brain Computer Interfaces (BCI).
+- 👯 I’m looking to collaborate on BCI, AWS.
+- 💬 Ask me about platform architecture.
+- 📫 How to reach me: https://www.linkedin.com/in/antoniotripiana/
 <!--
 **tonythree/tonythree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
