@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![tonythree's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonythree&count_private=true&show_icons=true&hide=issues)
+![tonythree's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonythree&count_private=true&show_icons=true&hide=stars,issues)
